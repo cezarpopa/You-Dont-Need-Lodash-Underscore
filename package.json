@@ -26,7 +26,7 @@
     "test:unit": "mocha tests/unit"
   },
   "dependencies": {
-    "kebab-case": "^1.0.0"
+    "kebab-case": "^1.0.2"
   },
   "devDependencies": {
     "coveralls": "^2.11.9",
